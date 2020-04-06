@@ -21,7 +21,7 @@ project = 'Temp'
 copyright = '2020, x'
 author = 'x'
 
-
+master_doc = 'index'
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be

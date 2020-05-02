@@ -31,6 +31,7 @@ Results
    2020-04-29 00:00:24.739059, False, False
    2020-04-30 00:00:12.149052, False, False
    2020-05-01 00:00:28.439058, False, False
+   2020-05-02 00:00:28.639057, False, False
 
 .. csv-table::
    :header: "from", "to"

@@ -47,6 +47,7 @@ Results
    2020-05-16 00:00:45.649057, True, False
    2020-05-17 00:00:41.819054, True, False
    2020-05-18 00:00:48.099052, True, True
+   2020-05-19 00:00:20.469119, True, True
 
 .. csv-table::
    :header: "from", "to"

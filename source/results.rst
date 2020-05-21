@@ -1,6 +1,8 @@
 Results
 =======
 
+second experiment: 21.05.2020
+
 .. csv-table::
    :header: "datetime", "A", "G"
    :widths: 40, 10, 10
@@ -50,6 +52,7 @@ Results
    2020-05-19 00:00:20.469119, True, True
    2020-05-20 00:00:37.919618, True, True
    2020-05-21 00:00:36.119352, True, True
+   2020-05-21 12:37:17.874644, False, False
 
 .. csv-table::
    :header: "from", "to"

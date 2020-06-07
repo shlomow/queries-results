@@ -67,6 +67,7 @@ third experiment: 2.06.2020
    2020-06-04 00:00:20.919293, False, False
    2020-06-05 00:00:39.151608, False, False
    2020-06-06 00:00:40.533357, False, False
+   2020-06-07 00:00:02.589306, False, False
 
 .. csv-table::
    :header: "from", "to"

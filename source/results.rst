@@ -7,6 +7,8 @@ third experiment: 2.06.2020
 
 forth experiment: 18.06.2020
 
+fifth experiment: 24.07.2020
+
 .. csv-table::
    :header: "datetime", "A", "G"
    :widths: 40, 10, 10
@@ -98,6 +100,8 @@ forth experiment: 18.06.2020
    2020-07-01 00:00:35.003781, True, False
    2020-07-02 00:00:35.269173, True, True
    2020-07-03 00:00:22.799151, True, True
+   2020-07-22 17:12:21.352138, False, False
+   2020-07-22 17:19:04.703105, False, False
 
 .. csv-table::
    :header: "from", "to"

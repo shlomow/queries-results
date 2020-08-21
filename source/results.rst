@@ -132,6 +132,7 @@ fifth experiment: 24.07.2020
    2020-08-18 00:00:28.758256, False, False
    2020-08-19 00:00:31.200870, False, False
    2020-08-20 00:00:33.268249, False, False
+   2020-08-21 00:00:39.308252, False, True
 
 .. csv-table::
    :header: "from", "to"
